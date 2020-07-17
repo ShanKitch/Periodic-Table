@@ -1,0 +1,180 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#container{
+    width:1000px;
+    height:520px;
+    display:inline-block;
+    background-color:rgb(238,238,238);
+    margin-left:300px;
+    margin-top:50px;
+}
+#grouprow{
+    font-size:10pt;
+    color:red;
+    padding-bottom:20px;
+    vertical-align:top;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+#grouprow .labelgroup{
+    display:inline-block;
+    padding-top:5px;
+    padding-bottom:2px;
+}
+#grouprow .labelperiod{
+    display:inline-block;
+    padding-bottom:15px;
+    padding-top: 1px;
+    padding-right:25px;
+}
+#grouprow .groupnum{
+    font-size:10pt;
+    color:red;
+    word-spacing:33px;
+    display:inline;
+    vertical-align:top;
+}
+#grouprow .three{
+    padding-left:40px;
+}
+#periodcolumn{
+    font-size:10pt;
+    color:red;
+    display:inline-block;
+}
+#periodcolumn p{
+    display:inline-block;
+    padding-top: 25px;
+    padding-bottom: 8px;
+}
+#blueelements{
+    display:inline-block;
+    vertical-align:top;
+    margin-top:5px;
+}
+#blueelements .bluefirst{
+    list-style: none;
+    display:inline-block;
+    width:45px;
+    vertical-align:top;
+    margin-left: 35px;
+    margin-top:3px;   
+}
+#blueelements .bluesecond{
+        list-style: none;
+        display:inline-block;
+        width:45px;
+        margin-top:34px;
+        vertical-align:top;
+}
+#blueelements .blue{
+    display:inline-block;
+    background-color:rgb(104,155,255);
+    width:42px;
+    height:42px;
+    border:1px solid black;
+    text-align:center;
+    font-size:7pt;
+    margin-top:2px;
+    color:black;
+}
+.symbol{
+    font-size:13pt;
+    color:blue;
+    font-weight:bold;
+}
+#pinkelements{
+    display:inline-block;
+    width: 476px;
+    margin-left:30px;
+}
+#pinkelements .pink{
+    display:inline-block;
+    background-color:rgb(253,154,152);
+    width:42px;
+    height:42px;
+    border:1px solid black;
+    text-align:center;
+    font-size:7pt;
+    margin-top:2px;
+    color:black;
+}
+#pinkelements ul{
+    list-style: none;
+    display:inline;
+    margin-right:2px;
+}
+#yellowelements{
+    display:inline-block;
+    vertical-align:top;
+}
+#yellowelements ul{
+    list-style: none;
+    display:inline-block;
+    width:45px;
+    vertical-align:top;
+    margin-top:53px;   
+}
+#yellowelements .yellowsixth{
+    list-style: none;
+    display:inline-block;
+    width:45px;
+    vertical-align:top;
+    margin-top:7px;
+}
+#yellowelements .yellow{
+    display:inline-block;
+    background-color:rgb(254,203,0);
+    width:42px;
+    height:42px;
+    border:1px solid black;
+    text-align:center;
+    font-size:7pt;
+    margin-top:2px;
+    color:black;  
+}
+#greenelements{
+    display:inline-block;
+    width: 850px;
+    height:100px;
+    margin-left:47px;
+    margin-top:10px;
+}
+#greenelements .greenlabels{
+    font-size:10pt;
+    color:red;
+    display:inline-block;
+    margin-top:17px;    
+}
+#greenelements .stars{
+    padding-left:40px;
+    display:inline-block;
+}
+#greenelements .greenfirst{
+    list-style: none;
+    display:inline;
+    margin-right:2px;
+    vertical-align:top;
+}
+#greenelements .greensecond{
+    list-style: none;
+    display:inline;
+    padding-left:8px;
+    vertical-align:top;
+}
+#greenelements .green{
+    display:inline-block;
+    background-color:rgb(31,202,33);
+    width:42px;
+    height:42px;
+    border:1px solid black;
+    text-align:center;
+    font-size:7pt;
+    margin-top:2px;
+    color:black;  
+}
+
+
